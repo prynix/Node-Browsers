@@ -1,0 +1,15 @@
+{
+    "name": "BrowsersFactory",
+    "version": "1.0.5",
+    "private": true,
+    "description": "MFA-net-bot BrowsersFactory",
+    "main": "none",
+    "dependencies": {       
+        "pm2": "2.4.5"      
+    },
+    "scripts": {
+        "start": "node browsers"
+    },
+    "author": "JavaScript",
+    "license": ""
+}
